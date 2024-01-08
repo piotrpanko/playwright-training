@@ -1,2 +1,1 @@
-# playwright-training
-Playwright training ground
+# Playwright Training Grounds
